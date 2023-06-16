@@ -1,6 +1,6 @@
-## 🕯️🕯️🕯️hello there🕯️🕯️🕯️ …
+## hello there..🕯️
 
-| my tech stack |     |     |     |     |
+my tech stack
 | --- | --- | --- | --- | --- |
 | `react` | `typescript` | `redux` | `vite` / `CRA` | `html`+`css` |
 
