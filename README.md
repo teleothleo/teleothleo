@@ -12,5 +12,5 @@
 - 🌕 My goal is to understand the current status of the project, the tasks assigned to me, and to work efficiently towards their resolution.
 
 ### contacts
-- telegram: [@etevve](t.me/etevve)
+- telegram: [@etevve](https://www.t.me/etevve)
 - mailbox: [amir.gatsemayer@gmail.com](mailto:amir.gatsemayer@gmail.com)
