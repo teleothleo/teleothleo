@@ -1,7 +1,6 @@
 ## hello there..🕯️
 
 my tech stack
-| --- | --- | --- | --- | --- |
 | `react` | `typescript` | `redux` | `vite` / `CRA` | `html`+`css` |
 
 a few words about me:
