@@ -2,7 +2,7 @@
 
 ### my tech stack..
 
-| `react` | `typescript` | `redux` | `vite` / `CRA` | `html`+`css` |
+| `React` | `TypeScript` | `Redux` | `Vite` / `CRA` | `HTML5`+`CSS3` |
 
 ### a few words about me..
 - 🕸️ I believe Web development is the most versatile means for implementing ideas in the IT sector. I have numerous ideas which led me to start programming with the web.
