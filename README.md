@@ -11,8 +11,6 @@ a few words about me:
 - 🎃 Always on the lookout for new technologies and tools to implement in my projects.
 - 🌕 My goal is to understand the current status of the project, the tasks assigned to me, and to work efficiently towards their resolution.
 
-how to contact me:
-
 telegram: [@etevve](/tmp/.mount_joplinYdg4RR/resources/app.asar/t.me/etevve "t.me/etevve")
 
 mailbox: [amir.gatsemayer@gmail.com](mailto:amir.gatsemayer@gmail.com)
