@@ -1,11 +1,14 @@
 ## hello there..🕯️
 
 ### my tech stack..
-[![React](https://img.shields.io/badge/React-16.x.x-61DAFB.svg?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.x.x-3178C6.svg?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+
+[![React](https://img.shields.io/badge/React-16.x.x-61DAFB.svg?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/Redux-4.x.x-764ABC.svg?style=for-the-badge&logo=redux)](https://redux.js.org/)
+
 [![HTML5](https://img.shields.io/badge/HTML5-%23090909?style=for-the-badge&logo=HTML5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-%23090909?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 [![Vite](https://img.shields.io/badge/Vite-2.x.x-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 [![Create React App](https://img.shields.io/badge/Create%20React%20App-4.x.x-CRA.svg?style=for-the-badge&logo=react)](https://create-react-app.dev/)
 
