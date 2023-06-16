@@ -1,6 +1,6 @@
 ## hello there..🕯️
 
-### my tech stack..
+### my tech stack is..
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.x.x-3178C6.svg?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
