@@ -1,4 +1,4 @@
-## hello there..🕯️
+## hello there..🕯️ о_0
 
 ### my tech stack is..
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
